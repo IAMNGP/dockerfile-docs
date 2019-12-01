@@ -1,6 +1,6 @@
 
 clone
 
-build  docker build -t teedydocs:01 .
+build:   docker build -t teedydocs:01 .
 
 run 
