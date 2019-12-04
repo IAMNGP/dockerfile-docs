@@ -1,6 +1,11 @@
 
-clone
+git clone https://github.com/IAMNGP/dockerfile-docs.git
 
-build:   docker build -t teedydocs:01 .
+cd dockerfile-docs
 
-run 
+chmod a+x build.sh
+
+./build.sh
+
+#---Done
+
